@@ -13,8 +13,8 @@ If you haven't watched the session yet, here's a quick explainer: a lot of corpo
 Corporate cybersecurity teams[^2] can (and probably should) do better when it comes to helping people change. Science can tell us how to do that[^3]! 
 In my session I talk a lot about how to put science-based strategies into action by suggesting concrete steps you can take. 
 
-[!NOTE]
-To make these steps super easy to access, I've re-created them as issues in a project in this repository. 
+> [!NOTE]
+> To make **these steps** super easy to access, I've re-created them as **issues in a project** in this repository. 
 
 You can copy the project to use for rolling out your own change
 or you can browse through the issues individually. I've grouped the issues by milestones that correspond to the stages of change and gave them labels to make it 
