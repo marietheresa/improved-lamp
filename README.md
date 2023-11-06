@@ -29,14 +29,14 @@ In my session I refer to a couple of sources for ideas that aren't my own. Below
 
 #### Transtheoretical Model 
 * https://en.wikipedia.org/wiki/Transtheoretical_model
-* https://sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/behavioralchangetheories6.html
+* [Boston University School of Public Health: Behavioral Change Models](https://sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/behavioralchangetheories6.html)
 
 #### Cybersecurity Advocates
-* https://www.nist.gov/publications/cybersecurity-advocates-discovering-characteristics-and-skills-emergent-role
+* [Cybersecurity Advocates: Discovering the Characteristics and Skills for an Emergent Role (NIST)](https://www.nist.gov/publications/cybersecurity-advocates-discovering-characteristics-and-skills-emergent-role)
 * https://hackervalley.com/e/episode-196-cybersecurity-advocates-with-julie-haney/
 
 #### GitHub Advanced Security 
-* https://resources.github.com/learn/pathways/security/essentials/application-security-testing-github-advanced-security/
+* [GitHub Resources: Understanding GitHub Advanced Security](https://resources.github.com/learn/pathways/security/essentials/application-security-testing-github-advanced-security/)
 * https://nickliffen.dev/articles/why-advanced-security.html
 
 ### Thanks again for taking an interest! 
