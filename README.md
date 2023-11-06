@@ -1,6 +1,6 @@
 # improved-lamp
 
-Hi! Thanks so much for stopping by 😊 
+Hi! Thanks so much for stopping by!
 
 This is the repository for my GitHub Universe 2023 session 
 **Putting cybersecurity advocacy into action with GitHub Advanced Security**
@@ -23,9 +23,18 @@ easier to find what you're looking for.
 ### What about the links?
 
 In my session I refer to a couple of sources for ideas that aren't my own. Below you'll find the links for those
+
+#### Transtheoretical Model 
 * https://en.wikipedia.org/wiki/Transtheoretical_model
 * https://sphweb.bumc.bu.edu/otlt/mph-modules/sb/behavioralchangetheories/behavioralchangetheories6.html
+
+#### Cybersecurity Advocates
 * https://www.nist.gov/publications/cybersecurity-advocates-discovering-characteristics-and-skills-emergent-role
+* https://hackervalley.com/e/episode-196-cybersecurity-advocates-with-julie-haney/
+
+#### GitHub Advanced Security 
+* https://resources.github.com/learn/pathways/security/essentials/application-security-testing-github-advanced-security/
+* https://nickliffen.dev/articles/why-advanced-security.html
 
 ### Thanks again for taking an interest! 
 
