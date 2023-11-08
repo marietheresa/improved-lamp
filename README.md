@@ -41,7 +41,7 @@ In my session I refer to a couple of sources for ideas that aren't my own. Below
 
 ### Thanks again for taking an interest! 
 
-If you have thoughts, comments or questions - come meet me in the discussion https://github.com/marietheresa/improved-lamp/discussions/15.
+If you have thoughts, comments or questions - come meet me in the discussion https://github.com/orgs/community/discussions/74695.
 
 
 [^1]: Which is also why generally people aren't big fans.
